@@ -20,3 +20,7 @@ touch TestFile.md - создал файл для работы
 
 Smth new
 Эта строка была написана на ветке vetka1
+
+some new info for vetka3 number one
+
+some new info for vetka3 number two
